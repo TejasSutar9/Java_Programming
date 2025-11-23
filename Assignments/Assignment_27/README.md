@@ -7,6 +7,7 @@ java Program27_1
 iRow = 4
 iCol = 3  
 Output: 
+
     *   *   *   
     *   *   *   
     *   *   *   
