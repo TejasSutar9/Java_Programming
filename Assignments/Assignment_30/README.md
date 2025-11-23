@@ -5,6 +5,7 @@ java Program30_1
 ## Sample Input / Output
 iRow = 4
 iCol = 4
+
 Output: 
 
   *       #       #       #
