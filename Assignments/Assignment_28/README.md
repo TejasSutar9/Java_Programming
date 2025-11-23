@@ -1,5 +1,6 @@
 ## Compile & Run
 javac Program28_1.java
+
 java Program28_1
 
 ## Sample Input / Output
