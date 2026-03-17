@@ -1,2 +1,2 @@
 # Java_Programming
-Programs &amp; assignments for Logic Building batch - Java
+Java programming examples covering core concepts such as OOP, exception handling, collections, and problem solving programs.
